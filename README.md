@@ -5,20 +5,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/EdgarHdzHdz17/EdgarHdzDev/assets/47467891/d008666a-7b1e-4462-a734-765cb7700186">
+  <img src="https://github.com/EdgarHdzHdz17/EdggaHdzDev/assets/47467891/b02e78fa-653f-4485-95a7-283c889d75a0">
 </div>
 
 ## Screenshots
 
-
 ### Desktop
 <div align="center">
-  <img src="https://github.com/EdgarHdzHdz17/EdgarHdzDev/assets/47467891/192b1bfe-7535-41d6-a092-8318e07b8434" width="45%">
+  <img src="https://github.com/EdgarHdzHdz17/EdggaHdzDev/assets/47467891/88664af7-a183-4806-817f-80dc6b305dac" width="45%">
 </div>
 
 ### Mobile
 <div align="center">
-  <img src="https://github.com/EdgarHdzHdz17/EdgarHdzDev/assets/47467891/69bdff48-50eb-4dca-bd27-9d5bc2c20a6e" width="20%">
+  <img src="https://github.com/EdgarHdzHdz17/EdggaHdzDev/assets/47467891/d04c80ff-7c11-45fc-821e-9560a150238a" width="20%">
 </div>
 
 ## Run Locally
